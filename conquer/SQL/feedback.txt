@@ -1,0 +1,6 @@
+CREATE TABLE feedback (
+    name varchar(20),
+    email_id varchar(20),
+    subject varchar(40),
+    msg varchar(256)
+);

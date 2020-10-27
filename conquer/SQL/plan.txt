@@ -1,0 +1,27 @@
+PATIENTS
+--------------
+=> REPORT.
+=> TIME ALERT.
+=> STATUS.
+
+PATIENTS
+- name
+- location
+- phone no
+- issue
+- age
+- PATIENTS name
+
+ADMIN
+--------------
+=> ADD NEW USER
+=> ADD NEW HOSPITAL
+=> EMPLOYEES DETAILS
+=> FEEDBACK REPORT
+
+EMPLOYEE
+--------------
+=> REPORT RESPONSE
+=> HOSPITAL INFORMATION
+    => AMBULANCE INFORMATION
+=> DELETE THE RESPONSE

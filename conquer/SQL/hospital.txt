@@ -1,0 +1,7 @@
+create table hospital (
+    hosid int NOT NULL AUTO_INCREMENT,
+    Name varchar(20) not null,
+    Area varchar(20) not null, 
+    x_coordinate float not null, 
+    y_coordinates float not null
+);
