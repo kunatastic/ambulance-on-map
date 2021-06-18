@@ -1,1 +1,3 @@
 # Conquer
+
+## Documentation is left 😢.
